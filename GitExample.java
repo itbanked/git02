@@ -4,7 +4,7 @@ public class GitExample{
 
 	public static void main(String[] args){
 		
-		System.out.println("HEllo git02");
+		System.out.println("Hello git02");
 
 	}
 
